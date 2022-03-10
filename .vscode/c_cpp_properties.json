@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x86",
+      "compilerPath": "C:/MinGW/bin/gcc.exe",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "intelliSenseMode": "windows-gcc-x86",
+      "browse": {
+        "path": [
+          "${workspaceFolder}"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+      },
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "compilerArgs": []
+    }
+  ],
+  "version": 4
+}
